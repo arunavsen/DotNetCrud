@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext “Server=DESKTOP-5FBSLNK;Database=DotNet5crud;Integrated Security=True” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
