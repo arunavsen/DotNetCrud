@@ -56,7 +56,7 @@ namespace DotNetCrud
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Employesses}/{action=Index}/{id?}");
             });
         }
     }
